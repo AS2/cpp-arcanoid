@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ARCANOID", "ARCANOID.vcxproj", "{5DF05C8E-28FB-4F12-9213-D9F47D7516D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DF05C8E-28FB-4F12-9213-D9F47D7516D7}.Debug|x64.ActiveCfg = Debug|x64
+		{5DF05C8E-28FB-4F12-9213-D9F47D7516D7}.Debug|x64.Build.0 = Debug|x64
+		{5DF05C8E-28FB-4F12-9213-D9F47D7516D7}.Debug|x86.ActiveCfg = Debug|Win32
+		{5DF05C8E-28FB-4F12-9213-D9F47D7516D7}.Debug|x86.Build.0 = Debug|Win32
+		{5DF05C8E-28FB-4F12-9213-D9F47D7516D7}.Release|x64.ActiveCfg = Release|x64
+		{5DF05C8E-28FB-4F12-9213-D9F47D7516D7}.Release|x64.Build.0 = Release|x64
+		{5DF05C8E-28FB-4F12-9213-D9F47D7516D7}.Release|x86.ActiveCfg = Release|Win32
+		{5DF05C8E-28FB-4F12-9213-D9F47D7516D7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41439C23-0060-44DC-AB4D-FAC219C04389}
+	EndGlobalSection
+EndGlobal

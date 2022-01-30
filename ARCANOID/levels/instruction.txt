@@ -1,0 +1,15 @@
+1) level legend
+- first string: two numbers - width and height
+- * - no block
+- 1 - block for 1 hit
+- 2 - block for 2 hit
+- 3 - block for 3 hit
+bonuses (all have 4 hits to break):
+- T - make platform tiny
+- B - make platform big
+- L - gives extra live
+- H - hard ball
+- M - multiballs
+- P - points (+1000 points)
+- F - make ball faster
+- S - make ball slower
